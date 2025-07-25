@@ -1,40 +1,34 @@
-<!-- README.md -->
-
-<!-- 🎬 Animated Intro -->
+<!-- 🎯 Animated Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=This+is+Muzafar+Alli+Khan;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 👨‍💻 About Me
-
-<p align="center">
-  <strong>I'm Muzafar Alli Khan</strong> — a passionate <strong>Java Backend Developer</strong> from 🇮🇳 India.  
-  <br><br>
-  I enjoy building scalable and robust applications using <strong>Java, Spring Boot</strong>, and modern backend technologies.
-</p>
-
-- 🔭 **Currently working on**:  
-  `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
-
-- 🌱 **Learning/Exploring**:  
-  `Microservices`, `Spring Security`, `Design Patterns`
-
-- 📫 **Reach me at**:  
-  `muzafarkhandev@gmail.com`
+### 👨‍💻 I'm a Java Backend Developer from India 🇮🇳
 
 ---
 
-### ⚒️ Tools & Technologies
+### 🚧 Currently Working On
+> `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
+
+### 🌱 Learning & Exploring
+> `Microservices`, `Spring Security`, `Design Patterns`
+
+### 📫 Reach Me
+> `muzafarkhandev@gmail.com`
+
+---
+
+### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzafar-dev&show_icons=true&theme=radical&border_radius=10" />
@@ -50,21 +44,19 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🔗 Let's Connect
 
 <p align="center">
   <a href="mailto:muzafarkhandev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 Final Thought
+### 💬 Quote I Believe In
 
-<p align="center">
-  <em>"Strive for clean code, not just code that works."</em>
-</p>
+> **“Strive for clean code, not just code that works.”**
