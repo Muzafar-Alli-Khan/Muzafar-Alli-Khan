@@ -59,13 +59,7 @@
 
 ---
 
-### 🛠 Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-%230062B3?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
 
 ---
 
