@@ -1,75 +1,119 @@
-<!-- Animated Welcome -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=This+is+Muzafar+Alli+Khan;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Muzafar Alli Khan | Profile</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      margin: 0;
+      background-color: #0f0f0f;
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      overflow: hidden;
+    }
 
----
+    .fade-in {
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeInUp 1s ease-out forwards;
+    }
 
-## 👨‍💻 About Me
+    .fade-in:nth-child(1) { animation-delay: 0.5s; }
+    .fade-in:nth-child(2) { animation-delay: 2s; }
+    .fade-in:nth-child(3) { animation-delay: 4s; }
+    .fade-in:nth-child(4) { animation-delay: 6s; }
 
-<p align="center">
-  <strong>I'm Muzafar Alli Khan</strong> — a passionate <strong>Java Backend Developer</strong> from India 🇮🇳  
-  <br><br>
-  I love building Java-based solutions and solving real-world problems using <strong>clean, maintainable code</strong>.
-</p>
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
 
-- 🔭 **Currently working on:**
-  <br>
-  <code>Spring Boot</code> <code>JDBC</code> <code>Multithreading</code> <code>System Design</code>
-  
-- 🌱 **Exploring:**
-  <br>
-  <code>Microservices</code> <code>Spring Security</code> <code>Design Patterns</code>
+    .tag {
+      display: inline-block;
+      background: #2b2b2b;
+      padding: 5px 10px;
+      margin: 4px;
+      border-radius: 10px;
+      font-family: monospace;
+      font-size: 14px;
+    }
 
-- 📬 **Reach me at:**  
-  <a href="mailto:muzafarkhandev@gmail.com">muzafarkhandev@gmail.com</a>
+    h1, h2, h3, p {
+      margin: 10px 0;
+      text-align: center;
+    }
 
----
+    a {
+      color: #00bfff;
+      text-decoration: none;
+    }
 
-## ⚒️ My Tech Stack
+    .tools {
+      margin-top: 30px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      animation: fadeInUp 1s ease-out forwards;
+      animation-delay: 8s;
+      opacity: 0;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+    .tools img {
+      height: 40px;
+      border-radius: 6px;
+      padding: 4px;
+      background: white;
+    }
 
----
+    .section {
+      margin-top: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="fade-in">👋 This is <span style="color:#00bfff;">Muzafar Alli Khan</span></h1>
+  <h2 class="fade-in">✨ Welcome to my Profile ✨</h2>
 
-## 📊 GitHub Stats
+  <div class="fade-in section">
+    <p><strong>📡 Currently working on:</strong></p>
+    <div>
+      <span class="tag">Spring Boot</span>
+      <span class="tag">JDBC</span>
+      <span class="tag">Multithreading</span>
+      <span class="tag">System Design</span>
+    </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzafarkhan&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
+    <p><strong>🌱 Exploring:</strong></p>
+    <div>
+      <span class="tag">Microservices</span>
+      <span class="tag">Spring Security</span>
+      <span class="tag">Design Patterns</span>
+    </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muzafarkhan&theme=tokyonight&border_radius=10" />
-</p>
+    <p><strong>📬 Reach me at:</strong></p>
+    <p><a href="mailto:muzafar005@gmail.com">muzafar005@gmail.com</a></p>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafarkhan&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:muzafarkhandev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muzafarkhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 💬 Final Thought
-
-<p align="center"><em>"Build systems that last. Write code that speaks clarity."</em></p>
+  <div class="tools">
+    <!-- Simulated Tech Stack icons (replace src with actual ones if needed) -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+  </div>
+</body>
+</html>
