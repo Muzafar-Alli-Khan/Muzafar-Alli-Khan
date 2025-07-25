@@ -67,58 +67,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-### 📂 Projects
-
-<div align="center">
-
-<!-- Project 1 -->
-<a href="https://github.com/MuzafarAliKhan/Movie-Ticket-Booking-System" target="_blank">
-  <img src="https://img.shields.io/badge/Movie%20Ticket%20Booking%20System-Java%20%7C%20JDBC%20%7C%20Oracle-8A2BE2?style=for-the-badge&logo=oracle&logoColor=white" alt="Movie Ticket Booking">
-</a>  
-<br>
-🎟️ A console-based application that handles movie booking, seat management, customer payments, and transaction rollbacks using JDBC and Oracle DB.
-
-<br><br>
-
-<!-- Project 2 -->
-<a href="https://github.com/MuzafarAliKhan/SpringBoot-Ecommerce-App" target="_blank">
-  <img src="https://img.shields.io/badge/Ecommerce%20App-SpringBoot%20%7C%20JPA%20%7C%20MySQL-34D399?style=for-the-badge&logo=spring&logoColor=white" alt="Ecommerce App">
-</a>  
-<br>
-🛒 Built an e-commerce backend with RESTful APIs to manage products, users, orders, and secure login using Spring Security.
-
-<br><br>
-
-<!-- Project 3 -->
-<a href="https://github.com/MuzafarAliKhan/Employee-Management-System" target="_blank">
-  <img src="https://img.shields.io/badge/Employee%20Management%20System-Java%20%7C%20Swing%20%7C%20MySQL-F97316?style=for-the-badge&logo=java&logoColor=white" alt="EMS">
-</a>  
-<br>
-👨‍💼 Java Swing-based GUI desktop app that lets HR manage employee records, update salaries, delete users, and view reports.
-
-<br><br>
-
-<!-- Project 4 -->
-<a href="https://github.com/MuzafarAliKhan/Blog-REST-API" target="_blank">
-  <img src="https://img.shields.io/badge/Blog%20API-Spring%20Boot%20%7C%20REST%20%7C%20MySQL-F59E0B?style=for-the-badge&logo=springboot&logoColor=white" alt="Blog API">
-</a>  
-<br>
-📝 REST API for a blogging platform where users can register, log in, create/update/delete blog posts and leave comments.
-
-<br><br>
-
-<!-- Project 5 -->
-<a href="https://github.com/MuzafarAliKhan/Personal-Portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-HTML%20%7C%20CSS%20%7C%20JavaScript-00A8E8?style=for-the-badge&logo=javascript&logoColor=white" alt="Portfolio Website">
-</a>  
-<br>
-🌐 A responsive personal portfolio website showcasing projects, skills, and contact form with modern UI animations.
-
-</div>
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
