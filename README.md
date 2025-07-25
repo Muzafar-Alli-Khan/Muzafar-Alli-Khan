@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Muzafar Alli Khan | Profile</title>
+  <title>Muzafar Alli Khan | Java Developer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body {
       margin: 0;
-      background-color: #0f0f0f;
-      color: white;
+      background: #0f0f0f;
+      color: #fff;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       display: flex;
       flex-direction: column;
@@ -18,37 +18,54 @@
       overflow: hidden;
     }
 
-    .fade-in {
-      opacity: 0;
-      transform: translateY(30px);
-      animation: fadeInUp 1s ease-out forwards;
+    h1, h2, p {
+      text-align: center;
+      margin: 10px;
     }
 
-    .fade-in:nth-child(1) { animation-delay: 0.5s; }
-    .fade-in:nth-child(2) { animation-delay: 2s; }
-    .fade-in:nth-child(3) { animation-delay: 4s; }
-    .fade-in:nth-child(4) { animation-delay: 6s; }
+    #typing1, #typing2 {
+      font-size: 24px;
+      min-height: 40px;
+      color: #00bfff;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid #00bfff;
+      width: 0;
+    }
 
-    @keyframes fadeInUp {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
+    .fade {
+      opacity: 0;
+      transition: opacity 1s ease-in;
+    }
+
+    .show {
+      opacity: 1;
     }
 
     .tag {
-      display: inline-block;
       background: #2b2b2b;
+      color: #fff;
       padding: 5px 10px;
       margin: 4px;
       border-radius: 10px;
       font-family: monospace;
       font-size: 14px;
+      display: inline-block;
     }
 
-    h1, h2, h3, p {
-      margin: 10px 0;
-      text-align: center;
+    .tools {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .tools img {
+      height: 40px;
+      background: white;
+      border-radius: 6px;
+      padding: 4px;
     }
 
     a {
@@ -56,35 +73,18 @@
       text-decoration: none;
     }
 
-    .tools {
-      margin-top: 30px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      animation: fadeInUp 1s ease-out forwards;
-      animation-delay: 8s;
-      opacity: 0;
-    }
-
-    .tools img {
-      height: 40px;
-      border-radius: 6px;
-      padding: 4px;
-      background: white;
-    }
-
-    .section {
-      margin-top: 20px;
+    #profile {
       text-align: center;
+      margin-top: 20px;
     }
   </style>
 </head>
 <body>
-  <h1 class="fade-in">👋 This is <span style="color:#00bfff;">Muzafar Alli Khan</span></h1>
-  <h2 class="fade-in">✨ Welcome to my Profile ✨</h2>
 
-  <div class="fade-in section">
+  <h1 id="typing1"></h1>
+  <h2 id="typing2"></h2>
+
+  <div id="profile" class="fade">
     <p><strong>📡 Currently working on:</strong></p>
     <div>
       <span class="tag">Spring Boot</span>
@@ -102,18 +102,53 @@
 
     <p><strong>📬 Reach me at:</strong></p>
     <p><a href="mailto:muzafar005@gmail.com">muzafar005@gmail.com</a></p>
+
+    <div class="tools">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+    </div>
   </div>
 
-  <div class="tools">
-    <!-- Simulated Tech Stack icons (replace src with actual ones if needed) -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-  </div>
+  <script>
+    const text1 = "👋 This is Muzafar";
+    const text2 = "✨ Welcome to my Profile ✨";
+
+    let i = 0;
+    let j = 0;
+    const speed = 100;
+
+    function typeFirstLine() {
+      if (i < text1.length) {
+        document.getElementById("typing1").style.width = i + "ch";
+        document.getElementById("typing1").textContent += text1.charAt(i);
+        i++;
+        setTimeout(typeFirstLine, speed);
+      } else {
+        setTimeout(typeSecondLine, 1000);
+      }
+    }
+
+    function typeSecondLine() {
+      if (j < text2.length) {
+        document.getElementById("typing2").style.width = j + "ch";
+        document.getElementById("typing2").textContent += text2.charAt(j);
+        j++;
+        setTimeout(typeSecondLine, speed);
+      } else {
+        setTimeout(() => {
+          document.getElementById("profile").classList.add("show");
+        }, 800);
+      }
+    }
+
+    window.onload = typeFirstLine;
+  </script>
+
 </body>
 </html>
