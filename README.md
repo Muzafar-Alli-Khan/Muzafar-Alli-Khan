@@ -20,8 +20,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF0608&center=true&vCenter=true&width=600&lines=Muzafar+Alli+Khan" alt="Typing SVG">
 </h2>
 
-### ☕ Java Pop-Up Animation
-
 <div align="center">
 
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Java Developer Animation" width="400" style="border-radius: 12px; box-shadow: 0px 0px 20px rgba(0,0,0,0.3);" />
