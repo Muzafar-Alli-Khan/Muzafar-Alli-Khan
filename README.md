@@ -1,34 +1,39 @@
-<!-- 🎯 Animated Intro -->
+[media pointer="file-service://file-7onyo6gkc2oAxLzY2c7JxH"]
+<!-- README.md -->
+
+<!-- Animated Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=This+is+Muzafar+Alli+Khan;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 👨‍💻 I'm a Java Backend Developer from India 🇮🇳
-
----
-
-### 🚧 Currently Working On
-> `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
-
-### 🌱 Learning & Exploring
-> `Microservices`, `Spring Security`, `Design Patterns`
-
-### 📫 Reach Me
-> `muzafarkhandev@gmail.com`
-
----
-
-### 🛠️ Tools & Technologies
+### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css,postman" />
+  <strong>I'm Muzafar Alli Khan</strong> — a passionate <strong>Java Backend Developer</strong> from India 🇮🇳  
+  <br><br>
+  I love building Java-based solutions and solving real-world problems using <strong>clean, maintainable code</strong>.
+</p>
+
+- 🔭 Currently working on:  
+  `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
+- 🌱 Exploring:  
+  `Microservices`, `Spring Security`, `Design Patterns`
+- 📫 Reach me at:  
+  **muzafarkhandev@gmail.com**
+
+---
+
+### ⚒️ Tools & Technologies I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzafar-dev&show_icons=true&theme=radical&border_radius=10" />
@@ -44,7 +49,7 @@
 
 ---
 
-### 🔗 Let's Connect
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:muzafarkhandev@gmail.com">
@@ -57,6 +62,6 @@
 
 ---
 
-### 💬 Quote I Believe In
+### 💡 Final Thought
 
-> **“Strive for clean code, not just code that works.”**
+<p align="center"><em>"Strive for clean code, not just code that works."</em></p>  like this like thi but change or cut this  part
