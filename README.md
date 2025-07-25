@@ -1,67 +1,66 @@
-[media pointer="file-service://file-7onyo6gkc2oAxLzY2c7JxH"]
-<!-- README.md -->
+<!-- Profile README.md -->
 
-<!-- Animated Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=This+is+Muzafar+Alli+Khan;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
-
----
-
-### 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Raaj Khan</h1>
+<h3 align="center">A passionate Java Developer & Tech Learner from India</h3>
 
 <p align="center">
-  <strong>I'm Muzafar Alli Khan</strong> — a passionate <strong>Java Backend Developer</strong> from India 🇮🇳  
-  <br><br>
-  I love building Java-based solutions and solving real-world problems using <strong>clean, maintainable code</strong>.
-</p>
-
-- 🔭 Currently working on:  
-  `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
-- 🌱 Exploring:  
-  `Microservices`, `Spring Security`, `Design Patterns`
-- 📫 Reach me at:  
-  **muzafarkhandev@gmail.com**
-
----
-
-### ⚒️ Tools & Technologies I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 🌟 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzafar-dev&show_icons=true&theme=radical&border_radius=10" />
-</p>
+- 🔭 I’m currently working on **Java Backend Projects**
+- 🌱 I’m learning **Spring Boot, Microservices & System Design**
+- 💬 Ask me about **Java | JDBC | Collections | Multithreading**
+- 📫 Reach me at **your-email@example.com**
+- 📄 Know about my experiences on [My Resume](#) (link your resume)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muzafar-dev&theme=radical&border_radius=10" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafar-dev&layout=compact&theme=radical&border_radius=10" />
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 📊 GitHub Stats:
 
 <p align="center">
-  <a href="mailto:muzafarkhandev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
-### 💡 Final Thought
+### 📫 Connect with me:
 
-<p align="center"><em>"Strive for clean code, not just code that works."</em></p>  like this like thi but change or cut this  part
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+- 💡 I love solving DSA problems, designing system diagrams & explaining Java concepts with real-world examples!
+
+---
+
