@@ -1,32 +1,25 @@
-# <div align="center">
-  <h1>
-    <a href="">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </a>
-    <span class="wave">👋</span> 
-    <span id="name-animation">Muzafar Alli Khan</span>
-  </h1>
-</div>
-
-<h3 align="center">🚀 Full Stack Java Developer | ☕ Spring Boot Specialist | � LeetCode Problem Solver</h3>
-
----
-
-## 📊 Dynamic Stats
-
 <div align="center">
 
-<!-- GitHub Stats Card - Updated URL format -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzafarAliKhan&show_icons=true&theme=merko&hide_border=true)](https://github.com/MuzafarAliKhan)
+<!-- Animated Header -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muzafar+Alli+Khan;Full+Stack+Java+Developer;Spring+Boot+Specialist;LeetCode+Problem+Solver" alt="Animated Header">
+</a>
 
-<!-- Top Languages Card - Excluding Python -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafarAliKhan&layout=compact&theme=merko&hide_border=true&exclude_repo=python-repo-name)](https://github.com/MuzafarAliKhan)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzafar-alli-khan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Muzafar-Alli-Khan/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<!-- LeetCode Stats Card -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Muzafar-Alli-Khan?theme=unicorn)](https://leetcode.com/Muzafar-Alli-Khan/)
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuzafarAliKhan&theme=merko&hide_border=true)](https://git.io/streak-stats)
+<!-- 3D Dev Activity Graph -->
+<img src="https://raw.githubusercontent.com/MuzafarAliKhan/MuzafarAliKhan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
@@ -34,59 +27,50 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-**Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<!-- Animated Tech Stack Carousel -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Java+%7C+Spring+Boot+%7C+Hibernate;React+%7C+JavaScript+%7C+HTML5;MySQL+%7C+Docker+%7C+AWS" alt="Tech Stack Carousel">
+</p>
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- 3D Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,mysql,docker,aws,idea,git&theme=light&perline=10" />  
+</p>
+
+---
+
+## 📊 Dynamic Stats
+
+<div align="center">
+
+<!-- GitHub Stats with Calendar -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzafarAliKhan&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)](https://github.com/MuzafarAliKhan)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuzafarAliKhan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Top Languages with Java Focus -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafarAliKhan&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css)](https://github.com/MuzafarAliKhan)
+
+<!-- LeetCode with Badges -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Muzafar-Alli-Khan?theme=unicorn&font=Baloo%202&ext=contest)](https://leetcode.com/Muzafar-Alli-Khan/)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🎯 Current Focus
 
-<div align="center">
-
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| **[Project 1](#)** | Description | Java, Spring Boot |
-| **[Project 2](#)** | Description | React, REST API |
-| **[Project 3](#)** | Description | Hibernate, MySQL |
-
-</div>
-
----
-
-<style>
-  #name-animation {
-    display: inline-block;
-    animation: bounce 2s infinite;
-    color: #4CAF50;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+```java
+public class CurrentFocus {
+  public static void main(String[] args) {
+    String[] focusAreas = {
+      "Microservices Architecture",
+      "Spring Cloud",
+      "React Performance Optimization", 
+      "System Design"
+    };
+    
+    for(String focus : focusAreas) {
+      System.out.println("⚡ Focusing on: " + focus); 
+    }
   }
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  .wave {
-    animation: wave 2s infinite;
-    display: inline-block;
-  }
-  @keyframes wave {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
+}
