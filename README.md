@@ -1,66 +1,61 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Raaj Khan</h1>
-<h3 align="center">A passionate Java Developer & Tech Learner from India</h3>
+<h1 align="center">👋 Hi there, I'm Muzafar Alli Khan</h1>
+<h3 align="center">🚀 A Passionate Java Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Java+Developer+%7C+Spring+Boot+%7C+JDBC+%7C+MySQL;Multithreading+%7C+System+Design+%7C+DSA;Always+Learning+%7C+Building+%7C+Sharing+Knowledge" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 🔥 About Me
 
-- 🔭 I’m currently working on **Java Backend Projects**
-- 🌱 I’m learning **Spring Boot, Microservices & System Design**
-- 💬 Ask me about **Java | JDBC | Collections | Multithreading**
-- 📫 Reach me at **your-email@example.com**
-- 📄 Know about my experiences on [My Resume](#) (link your resume)
+- 💻 I build scalable backend systems using **Core Java**, **Spring Boot**, **JDBC**, and **MySQL**  
+- 🧠 Currently learning **Microservices**, **Spring Security**, and **System Design**  
+- 🤝 Open to collaborating on **Java-based real-world projects**  
+- 📫 Reach me at: **muzafarkhandev@gmail.com**  
+- 🌐 Portfolio coming soon...
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,html,css,vscode,eclipse" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzafar-khan&show_icons=true&theme=radical&border_radius=12" alt="Muzafar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzafar-khan&theme=radical&border_radius=12" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafar-khan&layout=compact&theme=radical&border_radius=12" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<p align="center">
+  <a href="mailto:muzafarkhandev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ✨ Fun Fact
+### ⚡ Fun Quote
 
-- 💡 I love solving DSA problems, designing system diagrams & explaining Java concepts with real-world examples!
-
----
-
+<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
