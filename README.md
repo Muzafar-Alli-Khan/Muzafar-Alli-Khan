@@ -8,22 +8,27 @@
   </h1>
 </div>
 
-<h3 align="center">🚀 Full Stack Java Developer | ☕ Spring Boot Specialist | 🧩 LeetCode Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Java Developer | ☕ Spring Boot Specialist | � LeetCode Problem Solver</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muzafar-alli-khan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Muzafar-Alli-Khan/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+---
+
+## 📊 Dynamic Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card - Updated URL format -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzafarAliKhan&show_icons=true&theme=merko&hide_border=true)](https://github.com/MuzafarAliKhan)
+
+<!-- Top Languages Card - Excluding Python -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafarAliKhan&layout=compact&theme=merko&hide_border=true&exclude_repo=python-repo-name)](https://github.com/MuzafarAliKhan)
+
+<!-- LeetCode Stats Card -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Muzafar-Alli-Khan?theme=unicorn)](https://leetcode.com/Muzafar-Alli-Khan/)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuzafarAliKhan&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -41,28 +46,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Databases & DevOps**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 Dynamic Stats
-
-<div align="center">
-  
-<!-- GitHub Stats with Funky Theme -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=merko&hide_border=true&include_all_commits=true)
-
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=merko&hide_border=true&hide=python)
-
-<!-- LeetCode Dynamic Card -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Muzafar-Alli-Khan?theme=unicorn&font=Baloo%202)](https://leetcode.com/Muzafar-Alli-Khan/)
-
 </div>
 
 ---
@@ -73,17 +56,37 @@
 
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| **[E-Commerce Backend](link)** | Full-featured e-commerce API | Java, Spring Boot, MySQL |
-| **[Task Manager App](link)** | Collaborative task management | React, Spring Boot, JWT |
-| **[Portfolio Website](link)** | Interactive developer portfolio | React, Bootstrap, AWS |
+| **[Project 1](#)** | Description | Java, Spring Boot |
+| **[Project 2](#)** | Description | React, REST API |
+| **[Project 3](#)** | Description | Hibernate, MySQL |
 
 </div>
 
 ---
 
-## 🌟 Programming Activity
-
-```text
-☕ Java       ████████████████████ 95% 
-🌐 JavaScript ████████████░░░░░░░ 65%
-📊 SQL        ██████████░░░░░░░░░ 60%
+<style>
+  #name-animation {
+    display: inline-block;
+    animation: bounce 2s infinite;
+    color: #4CAF50;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  .wave {
+    animation: wave 2s infinite;
+    display: inline-block;
+  }
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
