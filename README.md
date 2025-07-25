@@ -76,16 +76,7 @@
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuzafarAliKhan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
----
 
-### 🌐 Visitor Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MuzafarAliKhan/count.svg" alt="Visitor Count">
-</p>
 
 </div>
