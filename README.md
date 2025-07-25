@@ -1,154 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Muzafar Alli Khan | Java Developer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    body {
-      margin: 0;
-      background: #0f0f0f;
-      color: #fff;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      overflow: hidden;
-    }
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+This+is+Muzafar;✨+Welcome+to+my+Profile+✨" alt="Typing SVG" />
+</h1>
 
-    h1, h2, p {
-      text-align: center;
-      margin: 10px;
-    }
+<h3 align="center">I am Muzafar Alli Khan — A Passionate Java Developer ☕</h3>
 
-    #typing1, #typing2 {
-      font-size: 24px;
-      min-height: 40px;
-      color: #00bfff;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: 2px solid #00bfff;
-      width: 0;
-    }
+---
 
-    .fade {
-      opacity: 0;
-      transition: opacity 1s ease-in;
-    }
+### 🛠️ My Tech Stack
 
-    .show {
-      opacity: 1;
-    }
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
 
-    .tag {
-      background: #2b2b2b;
-      color: #fff;
-      padding: 5px 10px;
-      margin: 4px;
-      border-radius: 10px;
-      font-family: monospace;
-      font-size: 14px;
-      display: inline-block;
-    }
+---
 
-    .tools {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 20px;
-    }
+### 📈 GitHub Stats
 
-    .tools img {
-      height: 40px;
-      background: white;
-      border-radius: 6px;
-      padding: 4px;
-    }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzafar-Khan&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzafar-Khan&theme=react" height="150"/>
+</p>
 
-    a {
-      color: #00bfff;
-      text-decoration: none;
-    }
+---
 
-    #profile {
-      text-align: center;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
+### 🌱 Currently Learning
 
-  <h1 id="typing1"></h1>
-  <h2 id="typing2"></h2>
+- 🧵 Java Multithreading
+- 🔐 Spring Security
+- 🧩 System Design
+- ⚙️ Design Patterns
+- 🔌 JDBC Transactions
 
-  <div id="profile" class="fade">
-    <p><strong>📡 Currently working on:</strong></p>
-    <div>
-      <span class="tag">Spring Boot</span>
-      <span class="tag">JDBC</span>
-      <span class="tag">Multithreading</span>
-      <span class="tag">System Design</span>
-    </div>
+---
 
-    <p><strong>🌱 Exploring:</strong></p>
-    <div>
-      <span class="tag">Microservices</span>
-      <span class="tag">Spring Security</span>
-      <span class="tag">Design Patterns</span>
-    </div>
+### 📫 Reach Me
 
-    <p><strong>📬 Reach me at:</strong></p>
-    <p><a href="mailto:muzafar005@gmail.com">muzafar005@gmail.com</a></p>
+📧 Email: [muzafar005@gmail.com](mailto:muzafar005@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
+🌐 Portfolio: [your-portfolio-link.com](#)
 
-    <div class="tools">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-    </div>
-  </div>
+---
 
-  <script>
-    const text1 = "👋 This is Muzafar";
-    const text2 = "✨ Welcome to my Profile ✨";
-
-    let i = 0;
-    let j = 0;
-    const speed = 100;
-
-    function typeFirstLine() {
-      if (i < text1.length) {
-        document.getElementById("typing1").style.width = i + "ch";
-        document.getElementById("typing1").textContent += text1.charAt(i);
-        i++;
-        setTimeout(typeFirstLine, speed);
-      } else {
-        setTimeout(typeSecondLine, 1000);
-      }
-    }
-
-    function typeSecondLine() {
-      if (j < text2.length) {
-        document.getElementById("typing2").style.width = j + "ch";
-        document.getElementById("typing2").textContent += text2.charAt(j);
-        j++;
-        setTimeout(typeSecondLine, speed);
-      } else {
-        setTimeout(() => {
-          document.getElementById("profile").classList.add("show");
-        }, 800);
-      }
-    }
-
-    window.onload = typeFirstLine;
-  </script>
-
-</body>
-</html>
