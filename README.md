@@ -1,5 +1,21 @@
 ---
 
+### ☕ Java Modal Pop-Up Style
+
+<div align="center">
+
+  <!-- Simulated Pop-Up Window -->
+  <img src="https://i.gifer.com/origin/f9/f92ba765f1a0de0465647d3de7e76e15_w200.gif" width="220" alt="Java Popup" style="border-radius:12px;" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Java%20Running...-Virtual%20Machine%20Active-orange?style=for-the-badge&logo=java&logoColor=white">
+
+  <br><br>
+  <b style="font-size:18px;">Java is compiling in the background... ☕</b>
+
+</div>
+
 <div align="center">
 
 <!-- JAVA ASCII Art -->
@@ -20,15 +36,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF0608&center=true&vCenter=true&width=600&lines=Muzafar+Alli+Khan" alt="Typing SVG">
 </h2>
 
-<div align="center">
-
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Java Developer Animation" width="400" style="border-radius: 12px; box-shadow: 0px 0px 20px rgba(0,0,0,0.3);" />
-
-  <br><br>
-
-  <b>🧠 Always Brewing Code... <br> Powered by Java!</b>
-
-</div>
 <!-- Title -->
 <h3><b>💻 Full Stack Java Developer</b></h3>
 
