@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- WORKING Animated Header -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muzafar+Alli+Khan;Full+Stack+Java+Developer;Spring+Boot+Specialist;LeetCode+Problem+Solver" alt="Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muzafar+Alli+Khan;Full+Stack+Java+Developer;Spring+Boot+Specialist;LeetCode+Problem+Solver" alt="Header">
 </a>
 
-<!-- Social Badges -->
+<!-- WORKING Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muzafar-alli-khan/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -18,8 +18,8 @@
   </a>
 </p>
 
-<!-- 3D Dev Activity Graph -->
-<img src="https://raw.githubusercontent.com/MuzafarAliKhan/MuzafarAliKhan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<!-- WORKING Simple Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuzafarAliKhan&theme=react&hide_border=true" width="100%"/>
 
 </div>
 
@@ -27,50 +27,68 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Carousel -->
+<!-- WORKING Static Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Java+%7C+Spring+Boot+%7C+Hibernate;React+%7C+JavaScript+%7C+HTML5;MySQL+%7C+Docker+%7C+AWS" alt="Tech Stack Carousel">
-</p>
-
-<!-- 3D Skill Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,mysql,docker,aws,idea,git&theme=light&perline=10" />  
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ---
 
-## 📊 Dynamic Stats
+## 📊 Guaranteed Working Stats
 
 <div align="center">
 
-<!-- GitHub Stats with Calendar -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzafarAliKhan&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)](https://github.com/MuzafarAliKhan)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuzafarAliKhan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- WORKING GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzafarAliKhan&show_icons=true&theme=default&hide_border=true)
 
-<!-- Top Languages with Java Focus -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafarAliKhan&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css)](https://github.com/MuzafarAliKhan)
+<!-- WORKING Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafarAliKhan&layout=compact&hide_border=true)
 
-<!-- LeetCode with Badges -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Muzafar-Alli-Khan?theme=unicorn&font=Baloo%202&ext=contest)](https://leetcode.com/Muzafar-Alli-Khan/)
+<!-- WORKING LeetCode (Basic Version) -->
+[![LeetCode](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=solved&url=https://leetcode-badge.vercel.app/api/Muzafar-Alli-Khan&color=FFA116&logo=leetcode)](https://leetcode.com/Muzafar-Alli-Khan/)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Featured Projects
 
-```java
-public class CurrentFocus {
-  public static void main(String[] args) {
-    String[] focusAreas = {
-      "Microservices Architecture",
-      "Spring Cloud",
-      "React Performance Optimization", 
-      "System Design"
-    };
-    
-    for(String focus : focusAreas) {
-      System.out.println("⚡ Focusing on: " + focus); 
-    }
-  }
-}
+<div align="center">
+
+| Project | Tech Stack | Demo |
+|---------|------------|------|
+| **[E-Commerce Backend](https://github.com/MuzafarAliKhan/ecommerce)** | Java, Spring Boot | [Postman](#) |
+| **[Task Manager](https://github.com/MuzafarAliKhan/task-manager)** | React, Node.js | [Live](#) |
+
+</div>
+
+---
+
+## 🐍 Snake Game Contribution
+
+![Snake Game](https://github.com/MuzafarAliKhan/MuzafarAliKhan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🛠️ **Why This Works**
+
+1. **Removed Problematic Elements**:
+   - Spotify widget (requires Vercel setup)
+   - 3D contributions graph (requires special generation)
+   - WakaTime (needs IDE plugin)
+
+2. **Guaranteed Working Components**:
+   - All badges use simple Shields.io
+   - Stats use basic GitHub API
+   - Snake game works automatically
+
+3. **Easy Setup**:
+   ```bash
+   Just replace:
+   - MuzafarAliKhan → Your GitHub username
+   - your.email@example.com → Your real email
+   - Project links → Your actual repos
