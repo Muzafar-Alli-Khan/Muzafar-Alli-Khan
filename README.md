@@ -47,11 +47,6 @@
   <b>🧠 Always Brewing Code... <br> Powered by Java!</b>
 
 </div>
-### 👨‍💻 About Me
-🔸 Passionate Java Developer with hands-on experience building robust backends and interactive frontends.  
-🔸 Strong focus on writing clean, efficient code and building scalable systems.  
-🔸 Currently deep-diving into Spring Boot, Microservices, and Cloud technologies.
-
 ---
 
 ### ⚙️ Tech Stack
