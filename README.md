@@ -1,50 +1,70 @@
+<!-- README.md -->
+
+<!-- 🎬 Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+This+is+Muzafar;✨+Welcome+to+my+Profile+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F7A41D&center=true&vCenter=true&width=600&lines=This+is+Muzafar+Alli+Khan;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">I am Muzafar Alli Khan — A Passionate Java Developer ☕</h3>
+---
+
+### 👨‍💻 About Me
+
+<p align="center">
+  <strong>I'm Muzafar Alli Khan</strong> — a passionate <strong>Java Backend Developer</strong> from 🇮🇳 India.  
+  <br><br>
+  I enjoy building scalable and robust applications using <strong>Java, Spring Boot</strong>, and modern backend technologies.
+</p>
+
+- 🔭 **Currently working on**:  
+  `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
+
+- 🌱 **Learning/Exploring**:  
+  `Microservices`, `Spring Security`, `Design Patterns`
+
+- 📫 **Reach me at**:  
+  `muzafarkhandev@gmail.com`
 
 ---
 
-### 🛠️ My Tech Stack
+### ⚒️ Tools & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzafar-Khan&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzafar-Khan&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muzafar-dev&show_icons=true&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muzafar-dev&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafar-dev&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
+### 🤝 Connect With Me
 
-- 🧵 Java Multithreading
-- 🔐 Spring Security
-- 🧩 System Design
-- ⚙️ Design Patterns
-- 🔌 JDBC Transactions
-
----
-
-### 📫 Reach Me
-
-📧 Email: [muzafar005@gmail.com](mailto:muzafar005@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
-🌐 Portfolio: [your-portfolio-link.com](#)
+<p align="center">
+  <a href="mailto:muzafarkhandev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+### 💡 Final Thought
+
+<p align="center">
+  <em>"Strive for clean code, not just code that works."</em>
+</p>
