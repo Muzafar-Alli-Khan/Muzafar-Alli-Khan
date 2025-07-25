@@ -1,24 +1,28 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm Muzafar Alli Khan</h1>
-<h3 align="center">🚀 Java Developer | Backend Enthusiast | Tech Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=800&color=F7A41D&center=true&vCenter=true&multiline=true&width=600&lines=This+is+Muzafar;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
+---
+
+### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Java+Developer+%7C+Spring+Boot+%7C+MySQL+%7C+JDBC;Multithreading+%7C+System+Design+%7C+DSA;Love+Clean+Code+%7C+Problem+Solving+%7C+Learning+Daily" alt="Typing SVG" />
+  I'm <strong>Muzafar Alli Khan</strong> — a dedicated <strong>Java Backend Developer</strong> from India 🇮🇳 <br />
+  I love building Java-based solutions and solving real-world problems using <strong>clean, maintainable code</strong>.
 </p>
 
----
-
-### 🔥 About Me
-
-- 👨‍💻 I specialize in **Java Backend Development**
-- 🧠 Learning: **Spring Boot, Microservices, Design Patterns**
-- 📫 Reach me: **muzafarkhandev@gmail.com**
-- ⚡ Fun fact: I learn best by building and teaching others
+- 🌱 Currently sharpening my skills in:  
+  `Spring Boot`, `Microservices`, `System Design`, `Multithreading`
+- 💬 Ask me about:  
+  `Java`, `JDBC`, `Collections`, `Threads`, `Design Patterns`
+- 📫 How to reach me:  
+  **muzafarkhandev@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ My Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,vscode,eclipse,html,css" />
@@ -26,35 +30,35 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzafar-dev&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzafar-dev&show_icons=true&theme=radical&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzafar-dev&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muzafar-dev&theme=radical&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafar-dev&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafar-dev&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:muzafarkhandev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 Quote
+### 💡 Final Thought
 
-<p align="center"><em>“First, solve the problem. Then, write the code.”</em></p>
+<p align="center"><em>“Strive for clean code, not just code that works.”</em></p>
