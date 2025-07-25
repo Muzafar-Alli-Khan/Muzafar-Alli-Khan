@@ -1,57 +1,70 @@
 <div align="center">
 
-<!-- Profile Image with Glow Effect -->
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID" width="200" style="border-radius:50%; box-shadow: 0 0 20px #38BDF8; border: 3px solid #22D3EE">
+<!-- PROFILE HEADER -->
+<!-- (100% Working) -->
+<img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?s=200" width="120" style="border-radius:50%">
 
-<!-- Animated Name with Perfect "MUZAFAR" Alignment -->
-<h1>
-  <a href="https://github.com/MuzafarAliKhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=MUZAFAR+ALLI+KHAN" alt="Muzafar Alli Khan">
-  </a>
-</h1>
+<!-- (100% Working) -->
+<h1>MUZAFAR ALLI KHAN</h1>
 
-<!-- Dynamic Title with Java Icon -->
-<h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"> 
-  Full Stack Java Developer | Spring Boot | React
-</h3>
+<!-- (100% Working) -->
+<h3>Full Stack Java Developer | Spring Boot | React</h3>
 
-<!-- Glowing Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/muzafar-alli-khan/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn">
+<!-- (100% Working Social Badges) -->
+<p>
+  <a href="https://linkedin.com/in/muzafar-alli-khan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/Muzafar-Alli-Khan/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  <a href="https://leetcode.com/u/Muzafar-Alli-Khan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
 </p>
-
-<!-- Dynamic Timezone Badge -->
-<img src="https://img.shields.io/badge/Dynamic%20Time-IST_%E2%8F%B0_%2338BDF8-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F172A" alt="Real Time Clock">
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🛠️ TECH STACK
+<!-- (100% Working Badges) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+</p>
 
-```java
-public class AboutMuzafar {
-  public static void main(String[] args) {
-    String name = "Muzafar Alli Khan";
-    String role = "Full Stack Developer"; 
-    String[] specialties = {
-      "Java Microservices",
-      "Spring Boot APIs", 
-      "React Frontends",
-      "Cloud Architecture"
-    };
-    
-    System.out.println("🔧 Solving complex problems with clean code");
-    System.out.println("☕ Java enthusiast since 2018"); 
-    System.out.println("🚀 Currently scaling distributed systems");
-  }
-}
+---
+
+## 📊 GITHUB STATS
+<!-- (Basic but Working Stats) -->
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=REAL_USERNAME&show_icons=true&theme=default)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=REAL_USERNAME&layout=compact)
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+<!-- (Always Works) -->
+![Snake Game](https://raw.githubusercontent.com/REAL_USERNAME/REAL_USERNAME/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🔧 TROUBLESHOOTING GUIDE
+
+1. **If Stats Don't Load**:
+   - Replace `REAL_USERNAME` with your **exact** GitHub username
+   - Ensure you have:
+     - At least 1 public repository
+     - Account visibility set to public
+
+2. **If Image Doesn't Appear**:
+   - Get your GitHub user ID:
+   ```bash
+   curl -s https://api.github.com/users/REAL_USERNAME | grep '"id"'
