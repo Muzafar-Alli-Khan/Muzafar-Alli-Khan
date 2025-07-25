@@ -2,26 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi%2C+This+is+Muzafar+Alli+Khan;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<!-- 🎥 Small Video Intro -->
+<!-- 🎥 Small Smart Video Embed -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" 
-         alt="Watch Intro Video" 
-         width="320" style="border-radius:10px;" />
-  </a>
+  <video width="320" autoplay muted loop playsinline style="border-radius: 12px;">
+    <source src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/assets/intro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <br />
-  <em>📽️ Click above to watch a short intro!</em>
+  <em>📽️ Short Intro Video</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hello! I’m **Muzafar Alli Khan**, a passionate **Java Backend Developer** from India 🇮🇳  
+Hello! I’m <strong><span style="color:#FF9900;">Muzafar Alli Khan</span></strong>, a passionate <strong>Java Backend Developer</strong> from India 🇮🇳  
 I enjoy building scalable and maintainable solutions using clean code.
 
-- 🔧 Currently working with: `Spring Boot`, `JDBC`, `Multithreading`, `System Design`
-- 🌱 Exploring: `Microservices`, `Spring Security`, `Design Patterns`
+- 🔧 Currently working with: `Spring Boot`, `JDBC`, `Multithreading`, `System Design`  
+- 🌱 Exploring: `Microservices`, `Spring Security`, `Design Patterns`  
 - 📬 Contact: **muzafarkhandev@gmail.com**
 
 ---
