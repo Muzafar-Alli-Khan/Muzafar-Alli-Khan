@@ -34,6 +34,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA/Hibernate-%230074C1?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-%230062B3?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 ---
 <div align="center">
 
@@ -50,11 +65,6 @@
 ---
 
 ### 🛠 Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-%230062B3?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
 
 ---
