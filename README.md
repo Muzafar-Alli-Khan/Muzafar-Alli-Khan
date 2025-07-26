@@ -11,7 +11,6 @@
 </pre>
 
 <!-- IST Badge -->
-<img src="https://img.shields.io/badge/Dynamic%20Time-IST_%E2%8F%B0_%23FF6B6B-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=gray&color=blue" alt="Real Time Clock">
 
 <!-- Name Badge -->
 <h2>
