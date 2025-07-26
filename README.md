@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
----
 <div align="center">
 
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Java Developer Animation" width="400" style="border-radius: 12px; box-shadow: 0px 0px 20px rgba(0,0,0,0.3);" />
@@ -59,12 +58,6 @@
   <b>🧠 Always Brewing Code... <br> Powered by Java!</b>
 
 </div>
----
 
 
----
 
-### 🛠 Tools & IDEs
-
-
----
