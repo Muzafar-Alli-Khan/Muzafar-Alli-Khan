@@ -10,14 +10,12 @@
  ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝
 </pre>
 
-<!-- IST Badge -->
 
 <!-- Name Badge -->
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF0608&center=true&vCenter=true&width=600&lines=Muzafar+Alli+Khan" alt="Typing SVG">
 </h2>
 
-<!-- Title -->
 <h3><b>💻 Full Stack Java Developer</b></h3>
 
 <!-- Social Links -->
