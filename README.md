@@ -1,46 +1,108 @@
-<div align="center">
-<h3><b>💻 Full Stack Java Developer</b></h3>
+<h1 align="center">Hi 👋, I'm Muzafar Alli Khan</h1>
+<h3 align="center">Full Stack Java Developer | Spring Boot | REST APIs | Cloud Learner</h3>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muzafar-alli-khan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Muzafar-Alli-Khan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/MuzafarAliKhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Muzafar-Alli-Khan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Muzafar--Alli--Khan-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:khanmuzafaralli1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khanmuzafaralli1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in **Computer Science Engineering** — Nalanda Institute of Technology, BPUT (2024) | CGPA: **7.74**
+- 💼 Java Developer with hands-on experience in **Core Java, Spring Boot, and Full Stack Development**
+- 🌱 Currently learning **Microservices** and **Kubernetes**
+- 🔧 Experienced with **REST APIs, JDBC, JUnit, Mockito, and SonarQube**
+- 📍 Based in India | Open to opportunities
+- 💬 Ask me about **Java, Spring Boot, or Backend Architecture**
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java (Core, J2EE), C |
+| **Frameworks** | Spring Boot, Microservices (Ongoing) |
+| **Databases** | MySQL, Oracle, MongoDB |
+| **API & Testing** | REST APIs, Postman, JUnit, Mockito, SonarQube |
+| **DevOps & Cloud** | Docker (Basics), AWS (Basics), Jenkins |
+| **Tools** | Maven, Git, GitHub, Eclipse, Spring Tools Suite (STS) |
+| **Core Concepts** | OOP, Design Patterns (Singleton, Factory, Strategy), SDLC, Multithreading, Java 8 (Streams, Lambda) |
+| **Practice Platforms** | LeetCode, HackerRank |
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ElectroCart — Full Stack E-Commerce Web Application
+> Academic Project at Naresh IT
+
+**Tech Stack:** Java (JSP/Servlets), JDBC, Oracle SQL, Apache Tomcat, Eclipse IDE
+
+- Built an MVC-based system managing **50+ users** and **100+ products**
+- Implemented secure login/registration, reducing invalid login attempts during testing
+- Designed CRUD operations for product management, improving **data entry efficiency by 30%**
+- Enabled order tracking and transaction flow, tested with **10+ concurrent users**
+
+---
+
+### 📦 MarketPulse — OLX-Style Marketplace *(Ongoing)*
+
+**Tech Stack:** Spring Boot, MongoDB, Studio 3T, Eclipse IDE
+
+- Building a scalable marketplace handling **500+ product listings**
+- Implementing user authentication and product workflows for **buyers & sellers**
+- Leveraging **MongoDB** for flexible product and user data storage
+
+---
+
+### 🏥 Hospital Management System — Console-Based Layered Application
+
+**Tech Stack:** Spring Boot, JDBC (DataSource), MySQL, Eclipse IDE
+
+- Developed a clean **layered architecture** (Controller → Service → DAO → Entity)
+- Implemented CRUD for **200+ patient and doctor records**
+- Designed real-time appointment booking, improving scheduling speed by **35%**
+- Applied validation and exception handling to reduce runtime errors
+
+---
+
+## 📜 Certifications & Courses
+
+- ✅ **Core Java** — Great Learning *(Completed)*
+- ✅ **Java Development** — Naresh IT *(Completed)*
+- 🔄 **Java Real-Time Tools & Dev-Sec-Ops** (Jenkins, SonarQube, Docker, Kubernetes, JUnit, GitHub) — *Ongoing*
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA/Hibernate-%230074C1?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzafar-Alli-Khan&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzafar-Alli-Khan&layout=compact&theme=default&hide_border=true" height="140"/>
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **Java Developer / Full Stack Java Developer** roles.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/muzafar-alli-khan/) or email at **khanmuzafaralli1@gmail.com**
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-%230062B3?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Muzafar-Alli-Khan&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
-<div align="center">
-
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Java Developer Animation" width="400" style="border-radius: 12px; box-shadow: 0px 0px 20px rgba(0,0,0,0.3);" />
-
-  <br><br>
-
-  <b>🧠 Always Brewing Code... <br> Powered by Java!</b>
-
-</div>
-
-
-
